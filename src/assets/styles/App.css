@@ -1,0 +1,9 @@
+.payment-option {
+  display: flex;
+  align-items: center;
+}
+
+.total-pay {
+  display: flex;
+  align-items: center;
+}
